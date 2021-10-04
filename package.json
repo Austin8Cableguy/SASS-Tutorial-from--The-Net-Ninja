@@ -22,6 +22,7 @@
     "sass": "^1.42.1"
   },
   "dependencies": {
+    "browser-sync": "^2.27.5",
     "glob-parent": "^6.0.2"
   }
 }
